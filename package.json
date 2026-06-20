@@ -1,6 +1,6 @@
 {
     "name": "maidraw-maishift-adapter",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "A maidraw adapter for maimai.lxns.net",
     "homepage": "https://github.com/saltcute/maidraw-maishift-adapter#readme",
     "bugs": {
