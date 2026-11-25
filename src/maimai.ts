@@ -1,1 +1,5 @@
-export { MaishiftScoreAdapter } from "@maimai/adapter";
+export {
+    type MaishiftRegion,
+    MaishiftScoreAdapter,
+    type MaishiftScoreAdapterOptions,
+} from "@maimai/adapter";
